@@ -1,2 +1,3 @@
-# Southern-carrr-center.github.io
-Southern carrr center on GitHub
+# shinomontazh-landing
+
+Initial repository setup for pr-poehali-dev/shinomontazh-landing
